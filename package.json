@@ -28,7 +28,7 @@
 	},
 	"homepage": "https://github.com/cfware/babel-plugin-bundled-import-meta#readme",
 	"dependencies": {
-		"@babel/plugin-syntax-import-meta": "^7.2.0",
+		"@babel/plugin-syntax-import-meta": "^7.10.1",
 		"@babel/template": "^7.7.0"
 	},
 	"peerDependencies": {
